@@ -12,6 +12,9 @@ body{
 	margin: 0;
 }
 
+
+/*Header styling*/
+
 header{
 	background-image: url("../images/medallion.svg");
 	background-repeat: no-repeat;
@@ -35,4 +38,22 @@ header h1{
 header h3{
 	font-size: .8rem;
 	margin: 0;
+}
+
+/*Navbar*/
+
+ul{
+list-style-type: none;
+padding: 0;
+color: #fff;
+margin: 0;
+}
+
+nav li{
+	background-color: #000;
+	display: inline;
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: .5em;
 }
