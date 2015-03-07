@@ -112,8 +112,52 @@ nav li{
 
 
 
+/*Goat*/
+
+.div-goat{
+	background-color: #000;
+		text-align: center;
+		width: 100%;
+		postion: relative;
+		overflow: hidden;
+		color: #fff;
+}
+
+.div-goat img{
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+
+}
+
+.div-goat p{
+	font-style: italic;
+	clear: left;
+}
 
 
+/*Rooster*/
+
+.div-rooster{
+	background-color: #e7001d;
+		text-align: center;
+		width: 100%;
+		postion: relative;
+		overflow: hidden;
+		color: #fff;
+}
+
+.div-rooster img{
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+
+}
+
+.div-rooster p{
+	font-style: italic;
+	clear: left;
+}
 
 
 /*e4c22a is the gold colour*/
