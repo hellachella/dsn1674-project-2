@@ -24,9 +24,18 @@ a:visited{
 	color: #fff;
 }
 
+li:hover{
+	background-color: #e4c22a;
+	color: #000;
+}
+
 wrapper{
 	width: 100%;
 }
+
+
+
+
 /*Header styling*/
 
 header{
