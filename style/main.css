@@ -183,4 +183,13 @@ nav li{
 }
 
 
-/*e4c22a is the gold colour*/
+/*Footer*/
+
+footer{
+background-color: #000;
+color: #fff;
+margin: 0;
+text-align: center;
+padding: .5m;
+overflow: hidden;
+}
