@@ -23,6 +23,7 @@ header{
 	color: #fff;
 	background-color: #e7001d;
 	padding: 1em;
+
 }
 
 header h1, header h3{
@@ -31,13 +32,14 @@ header h1, header h3{
 
 header h1{
 	font-size: 3rem;
-
 	margin: 0;
+		text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
 
 header h3{
 	font-size: .8rem;
 	margin: 0;
+		text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
 
 /*Navbar*/
@@ -78,6 +80,7 @@ nav li{
 	color: #fff;
 	text-align: center;
 	font-style: italic;
+text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
 
 
@@ -150,7 +153,7 @@ nav li{
 .div-rooster img{
 	width: 40%;
 	float: left;
-	margin-left: 6.5%;
+	margin-left: 6.6%;
 
 }
 
