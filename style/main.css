@@ -65,6 +65,7 @@ nav li{
 
 .hero{
 	position: relative;
+	overflow: hidden;
 
 }
 
