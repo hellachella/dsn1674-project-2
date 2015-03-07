@@ -46,7 +46,6 @@ header{
 	color: #fff;
 	background-color: #e7001d;
 	padding: 1em;
-
 }
 
 header h1, header h3{
@@ -56,7 +55,7 @@ header h1, header h3{
 header h1{
 	font-size: 3rem;
 	margin: 0;
-		text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
+	text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
 
 header h3{
@@ -130,7 +129,6 @@ nav li{
 	width: 40%;
 	float: left;
 	margin-left: 6.5%;
-
 }
 
 .div-dragon p{
@@ -155,7 +153,6 @@ nav li{
 	width: 40%;
 	float: left;
 	margin-left: 6.5%;
-
 }
 
 .div-goat p{
@@ -179,7 +176,6 @@ nav li{
 	width: 40%;
 	float: left;
 	margin-left: 6.6%;
-
 }
 
 .div-rooster p{
@@ -214,10 +210,10 @@ nav li{
 /*Footer*/
 
 footer{
-background-color: #000;
-color: #fff;
-margin: 0;
-text-align: center;
-padding: .5m;
-overflow: hidden;
+	background-color: #000;
+	color: #fff;
+	margin: 0;
+	text-align: center;
+	padding: .5m;
+	overflow: hidden;
 }
