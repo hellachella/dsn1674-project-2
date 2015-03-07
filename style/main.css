@@ -80,6 +80,7 @@ nav li{
 .hero{
 	position: relative;
 	box-sizing: border-box;
+	clear: left;
 }
 
 .hero img{
