@@ -24,7 +24,9 @@ a:visited{
 	color: #fff;
 }
 
-
+wrapper{
+	width: 100%;
+}
 /*Header styling*/
 
 header{
@@ -78,7 +80,6 @@ nav li{
 .hero{
 	position: relative;
 	box-sizing: border-box;
-
 }
 
 .hero img{
@@ -93,7 +94,7 @@ nav li{
 	color: #fff;
 	text-align: center;
 	font-style: italic;
-text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
+	text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
 
 
