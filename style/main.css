@@ -33,9 +33,6 @@ wrapper{
 	width: 100%;
 }
 
-
-
-
 /*Header styling*/
 
 header{
@@ -67,10 +64,10 @@ header h3{
 /*Navbar*/
 
 ul{
-list-style-type: none;
-padding: 0;
-color: #fff;
-margin: 0;
+	list-style-type: none;
+	padding: 0;
+	color: #fff;
+	margin: 0;
 }
 
 nav li{
@@ -142,11 +139,11 @@ nav li{
 
 .div-goat{
 	background-color: #000;
-		text-align: center;
-		width: 100%;
-		postion: relative;
-		overflow: hidden;
-		color: #fff;
+	text-align: center;
+	width: 100%;
+	postion: relative;
+	overflow: hidden;
+	color: #fff;
 }
 
 .div-goat img{
@@ -165,11 +162,11 @@ nav li{
 
 .div-rooster{
 	background-color: #e7001d;
-		text-align: center;
-		width: 100%;
-		postion: relative;
-		overflow: hidden;
-		color: #fff;
+	text-align: center;
+	width: 100%;
+	postion: relative;
+	overflow: hidden;
+	color: #fff;
 }
 
 .div-rooster img{
@@ -187,11 +184,11 @@ nav li{
 
 .div-ox{
 	background-color: #e4c22a;
-		text-align: center;
-		width: 100%;
-		postion: relative;
-		overflow: hidden;
-		color: #000;
+	text-align: center;
+	width: 100%;
+	postion: relative;
+	overflow: hidden;
+	color: #000;
 }
 
 .div-ox img{
