@@ -7,7 +7,6 @@ html{
 box-sizing: inherit;
 	}
 
-
 body{
 	margin: 0;
 }
@@ -195,14 +194,12 @@ nav li{
 	width: 40%;
 	float: left;
 	margin-left: 6.5%;
-
 }
 
 .div-ox p{
 	font-style: italic;
 	clear: left;
 }
-
 
 /*Footer*/
 
